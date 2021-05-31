@@ -10,6 +10,6 @@ Download main.py, open folder containing main.py in terminal. Type python3 main.
 uni_course_deutschland.csv will be saved in the same folder.
 You can use any spreadsheet sofware for manipulate the csv file required. 
 
-**Feel free to confribute to this.**
+**Feel free to contribute to this.**
 
 
