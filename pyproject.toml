@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "course-scrapper"
+version = "1.0.0"
+description = "A small python script to scrap all the courses available in Deutschland's hochshulekompass"
+authors = ["Amal Mohanan Pillai"]
+license = "none"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+bs4 = "^0.0.1"
+pandas = "^1.3.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
